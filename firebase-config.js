@@ -9,12 +9,12 @@ import { getFirestore,
          setDoc }             from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey:            "AIzaSyDsAGqoUl88QHZXSq2VtcTtWDDp34xpHjE",
-  authDomain:        "nojoom-a6f55.firebaseapp.com",
-  projectId:         "nojoom-a6f55",
-  storageBucket:     "nojoom-a6f55.firebasestorage.app",
-  messagingSenderId: "171830438333",
-  appId:             "1:171830438333:web:8ffdb8f4e004f68b20cad4"
+  apiKey: "AIzaSyDerZITu2A9cjHIZixtEmpJl2wx47wECA8",
+  authDomain: "nojoom-client2.firebaseapp.com",
+  projectId: "nojoom-client2",
+  storageBucket: "nojoom-client2.firebasestorage.app",
+  messagingSenderId: "869165440605",
+  appId: "1:869165440605:web:e00271f3308c867be537b4"
 };
 
 const app = initializeApp(firebaseConfig);
