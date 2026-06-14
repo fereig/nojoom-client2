@@ -8,8 +8,7 @@ import { db, collection, getDocs, addDoc,
 // الإعداد — لو Firebase واقفت حول USE_FIREBASE = false
 // ============================================================
 const USE_FIREBASE    = true;
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwET2jd8CtgKvozjNdab7st4GkD8roSqKnY30KyuUzRVpiDcSXTRIBUv0TKfjwwlv_BiQ/exec';
-
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwAWXXBJydydDse-xGNZPH0hFBt6zEyIsQ2qXHJwDScvfZDVcdN6NjYWToD0Jb26UHQNA/exec';
 // ============================================================
 // CHILDREN
 // ============================================================
